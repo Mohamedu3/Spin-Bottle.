@@ -1,0 +1,129 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>MOHAMED</Machine>
+    <WindowsUser>Mohamed-u3</WindowsUser>
+    <TargetPlatformIdentifier>Windows Phone</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>250a1f36-01b9-4c53-8899-007421f253b2</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\Mohamed-u3\Documents\Visual Studio 2013\Projects\Spin_Bottle\Spin_Bottle\obj\Debug\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Mohamed-u3\Documents\Visual Studio 2013\Projects\Spin_Bottle\Spin_Bottle\Bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Mohamed-u3\Documents\Visual Studio 2013\Projects\Spin_Bottle\Spin_Bottle\Bin\Debug\Spin_Bottle.dll">
+      <PackagePath>Spin_Bottle.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Phone\v8.1\Libraries\Microsoft.Phone.Controls.dll">
+      <PackagePath>Microsoft.Phone.Controls.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mohamed-u3\Documents\Visual Studio 2013\Projects\Spin_Bottle\Spin_Bottle\Assets\AlignmentGrid.png">
+      <PackagePath>Assets\AlignmentGrid.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mohamed-u3\Documents\Visual Studio 2013\Projects\Spin_Bottle\Spin_Bottle\Assets\angel.png">
+      <PackagePath>Assets\angel.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mohamed-u3\Documents\Visual Studio 2013\Projects\Spin_Bottle\Spin_Bottle\Assets\AppBar\sync.png">
+      <PackagePath>Assets\AppBar\sync.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mohamed-u3\Documents\Visual Studio 2013\Projects\Spin_Bottle\Spin_Bottle\Assets\ApplicationIcon.png">
+      <PackagePath>Assets\ApplicationIcon.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mohamed-u3\Documents\Visual Studio 2013\Projects\Spin_Bottle\Spin_Bottle\Assets\BadgeLogo.png">
+      <PackagePath>Assets\BadgeLogo.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mohamed-u3\Documents\Visual Studio 2013\Projects\Spin_Bottle\Spin_Bottle\Assets\Bottletxt.png">
+      <PackagePath>Assets\Bottletxt.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mohamed-u3\Documents\Visual Studio 2013\Projects\Spin_Bottle\Spin_Bottle\Assets\Camera.png">
+      <PackagePath>Assets\Camera.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mohamed-u3\Documents\Visual Studio 2013\Projects\Spin_Bottle\Spin_Bottle\Assets\Gallery.png">
+      <PackagePath>Assets\Gallery.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mohamed-u3\Documents\Visual Studio 2013\Projects\Spin_Bottle\Spin_Bottle\Assets\Help.png">
+      <PackagePath>Assets\Help.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mohamed-u3\Documents\Visual Studio 2013\Projects\Spin_Bottle\Spin_Bottle\Assets\icon_23130.png">
+      <PackagePath>Assets\icon_23130.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mohamed-u3\Documents\Visual Studio 2013\Projects\Spin_Bottle\Spin_Bottle\Assets\Liar.png">
+      <PackagePath>Assets\Liar.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mohamed-u3\Documents\Visual Studio 2013\Projects\Spin_Bottle\Spin_Bottle\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mohamed-u3\Documents\Visual Studio 2013\Projects\Spin_Bottle\Spin_Bottle\Assets\Muted.png">
+      <PackagePath>Assets\Muted.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mohamed-u3\Documents\Visual Studio 2013\Projects\Spin_Bottle\Spin_Bottle\Assets\settings.png">
+      <PackagePath>Assets\settings.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mohamed-u3\Documents\Visual Studio 2013\Projects\Spin_Bottle\Spin_Bottle\Assets\Sound.png">
+      <PackagePath>Assets\Sound.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mohamed-u3\Documents\Visual Studio 2013\Projects\Spin_Bottle\Spin_Bottle\Assets\Spin.png">
+      <PackagePath>Assets\Spin.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mohamed-u3\Documents\Visual Studio 2013\Projects\Spin_Bottle\Spin_Bottle\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mohamed-u3\Documents\Visual Studio 2013\Projects\Spin_Bottle\Spin_Bottle\Assets\SquareTile150x150.png">
+      <PackagePath>Assets\SquareTile150x150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mohamed-u3\Documents\Visual Studio 2013\Projects\Spin_Bottle\Spin_Bottle\Assets\SquareTile71x71.png">
+      <PackagePath>Assets\SquareTile71x71.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mohamed-u3\Documents\Visual Studio 2013\Projects\Spin_Bottle\Spin_Bottle\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mohamed-u3\Documents\Visual Studio 2013\Projects\Spin_Bottle\Spin_Bottle\Assets\swipe.png">
+      <PackagePath>Assets\swipe.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mohamed-u3\Documents\Visual Studio 2013\Projects\Spin_Bottle\Spin_Bottle\Assets\WideLogo.png">
+      <PackagePath>Assets\WideLogo.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mohamed-u3\Documents\Visual Studio 2013\Projects\Spin_Bottle\Spin_Bottle\Assets\Tiles\FlipCycleTileLarge.png">
+      <PackagePath>Assets\Tiles\FlipCycleTileLarge.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mohamed-u3\Documents\Visual Studio 2013\Projects\Spin_Bottle\Spin_Bottle\Assets\Tiles\FlipCycleTileMedium.png">
+      <PackagePath>Assets\Tiles\FlipCycleTileMedium.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mohamed-u3\Documents\Visual Studio 2013\Projects\Spin_Bottle\Spin_Bottle\Assets\Tiles\FlipCycleTileSmall.png">
+      <PackagePath>Assets\Tiles\FlipCycleTileSmall.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mohamed-u3\Documents\Visual Studio 2013\Projects\Spin_Bottle\Spin_Bottle\Assets\Tiles\IconicTileMediumLarge.png">
+      <PackagePath>Assets\Tiles\IconicTileMediumLarge.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mohamed-u3\Documents\Visual Studio 2013\Projects\Spin_Bottle\Spin_Bottle\Assets\Tiles\IconicTileSmall.png">
+      <PackagePath>Assets\Tiles\IconicTileSmall.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mohamed-u3\Documents\Visual Studio 2013\Projects\Spin_Bottle\Spin_Bottle\Assets\bg.jpg">
+      <PackagePath>Assets\bg.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mohamed-u3\Documents\Visual Studio 2013\Projects\Spin_Bottle\Spin_Bottle\SplashScreenImage.jpg">
+      <PackagePath>SplashScreenImage.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mohamed-u3\Documents\Visual Studio 2013\Projects\Spin_Bottle\Spin_Bottle\Sounds\BackgroundMusic.mp3">
+      <PackagePath>Sounds\BackgroundMusic.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mohamed-u3\Documents\Visual Studio 2013\Projects\Spin_Bottle\Spin_Bottle\Sounds\BottleSound1.mp3">
+      <PackagePath>Sounds\BottleSound1.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mohamed-u3\Documents\Visual Studio 2013\Projects\Spin_Bottle\Spin_Bottle\Bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
